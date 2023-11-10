@@ -31,10 +31,18 @@
   "mods": [
     {
       "app": "minecraft",
-      "url": "https://files.catbox.moe/c1v4bc.mcaddon",
-      "path": "Download/ApocalypseAddon.mcaddon",
+      "url": "https://files.catbox.moe/yy18zn.mcpack",
+      "path": "Download/IronMan2.mcaddon",
       "image": "https://modscraft.net/uploads/posts/2022-11/1668885748_apocalypse-0-2-0-mod.jpg",
-      "title": "Mod: Apocalypse Addon",
+      "title": "Mod: Iron Man 2 Part 1",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/m3xrr2.mcpack",
+      "path": "Download/IronMan2text.mcaddon",
+      "image": "https://www.9minecraft.net/wp-content/uploads/2017/10/IronMan-Mod.jpg",
+      "title": "Mod: Iron Man 2 Part 2",
       "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
     }
   ],
