@@ -7,7 +7,7 @@
       "interstitial": "709ad6cb10242f12"
     },
     "admob": {
-      "mrec": "ca-app-pub-3940256099942544/6300978111",
+      "mrec": "\tca-app-pub-3940256099942544/6300978111",
       "active": false,
       "banner": "ca-app-pub-3940256099942544/6300978111",
       "native": "ca-app-pub-3940256099942544/2247696110",
@@ -21,7 +21,7 @@
       "interstitial": "f99e409b-f9ab-4a2e-aa9a-4d143e6809ae"
     },
     "ironsource": {
-      "id": "16936ec0d",
+      "id": "190efcb95",
       "mrec": "DefaultMrec",
       "active": false,
       "banner": "DefaultBanner",
@@ -29,12 +29,84 @@
     }
   },
   "mods": [
+   {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/1tg9cb.mcpack",
+      "path": "Download/Jurassiccraft.mcpack",
+      "image": "https://modscraft.net/uploads/posts/2018-02/1517730993_carnotaurus-jurassic-park-1.jpg",
+      "title": "MOD:Jurassic Craft ",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+    },
+     {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/dmpsqt.mcpack",
+      "path": "Download/TextureJurassiccraft.mcpack",
+      "image": "https://modscraft.net/uploads/posts/2017-03/1490036020_jurassic-craft-triceratops-1.jpg",
+      "title": "TEXTURE :Jurassic Craft ",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+    },
     {
       "app": "minecraft",
-      "url": "https://files.catbox.moe/c1v4bc.mcaddon",
-      "path": "Download/ApocalypseAddon.mcaddon",
-      "image": "https://modscraft.net/uploads/posts/2022-11/1668885748_apocalypse-0-2-0-mod.jpg",
-      "title": "Mod: Apocalypse Addon",
+      "url": "https://files.catbox.moe/1tg9cb.mcpack",
+      "path": "Download/Jurassiccraft.mcpack",
+      "image": "https://modscraft.net/uploads/posts/2018-02/1517730993_carnotaurus-jurassic-park-1.jpg",
+      "title": "MOD:Jurassic Craft ",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/dmpsqt.mcpack",
+      "path": "Download/TextureJurassiccraft.mcpack",
+      "image": "https://modscraft.net/uploads/posts/2017-03/1490036020_jurassic-craft-triceratops-1.jpg",
+      "title": "TEXTURE :Jurassic Craft ",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+    },
+     {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/1tg9cb.mcpack",
+      "path": "Download/Jurassiccraft.mcpack",
+      "image": "https://modscraft.net/uploads/posts/2018-02/1517730993_carnotaurus-jurassic-park-1.jpg",
+      "title": "MOD:Jurassic Craft ",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/1tg9cb.mcpack",
+      "path": "Download/Jurassiccraft.mcpack",
+      "image": "https://modscraft.net/uploads/posts/2018-02/1517730993_carnotaurus-jurassic-park-1.jpg",
+      "title": "MOD:Jurassic Craft ",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+    },
+      {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/1tg9cb.mcpack",
+      "path": "Download/Jurassiccraft.mcpack",
+      "image": "https://modscraft.net/uploads/posts/2018-02/1517730993_carnotaurus-jurassic-park-1.jpg",
+      "title": "MOD:Jurassic Craft ",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+    },
+     {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/1tg9cb.mcpack",
+      "path": "Download/Jurassiccraft.mcpack",
+      "image": "https://modscraft.net/uploads/posts/2018-02/1517730993_carnotaurus-jurassic-park-1.jpg",
+      "title": "MOD:Jurassic Craft ",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+    },
+     {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/1tg9cb.mcpack",
+      "path": "Download/Jurassiccraft.mcpack",
+      "image": "https://modscraft.net/uploads/posts/2018-02/1517730993_carnotaurus-jurassic-park-1.jpg",
+      "title": "MOD:Jurassic Craft ",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/dmpsqt.mcpack",
+      "path": "Download/TextureJurassiccraft.mcpack",
+      "image": "https://modscraft.net/uploads/posts/2017-03/1490036020_jurassic-craft-triceratops-1.jpg",
+      "title": "TEXTURE :Jurassic Craft ",
       "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
     }
   ],
@@ -44,6 +116,6 @@
       "body": "1. Click on start button\n2. Choose a mod to download\n3. Click install Button and enjoy your game!",
       "title": "HOW TO"
     },
-    "onesignal_app_id": ""
+    "onesignal_app_id": "241c5de7-aa7a-4f39-aa42-57dc823bd138"
   }
 }
