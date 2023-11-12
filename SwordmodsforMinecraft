@@ -46,6 +46,22 @@
       "image": "https://modscraft.net/uploads/posts/2021-07/1627399491_swords_3.jpg",
       "title": "Mod: Sword of Withering and Sword of Edge",
       "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/c6r8fz.mcaddon",
+      "path": "Download/ModSuperSwordsv3.mcaddon",
+      "image": "https://modscraft.net/uploads/posts/2021-04/1619055950_super-swords-minecraft.jpg",
+      "title": "Mod: Super Swords",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/mpjyuk.mcaddon",
+      "path": "Download/ModSwordsfromores.mcaddon",
+      "image": "https://modscraft.net/uploads/posts/2023-09/sword-2.png",
+      "title": "Mod: Swords from ores",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
     }
   ],
   "settings": {
