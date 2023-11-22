@@ -36,6 +36,31 @@
       "image": "https://modscraft.net/uploads/posts/2023-10/1698778755_dino-monsters-mod.jpg",
       "title": "Mod: Dinosaur Monsters",
       "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+    },
+    {
+      "app": "minecraft",
+      "url": "https://modcraft.su/poload/4/McArkRPPreRelease.mcaddon",
+      "path": "Download/McArkRPPreRelease.mcaddon",
+      "image": "https://fmcpe.com/uploads/posts/2022-02/1644774169_ark-2.jpg",
+      "title": "Arkcraft addon",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/r05y8q.mcaddon",
+      "path": "Download/gvk-re.mcaddon",
+      "image": "https://fmcpe.com/uploads/posts/2021-06/1624351677_godzilla-2.jpg",
+      "title": "Godzilla vs Kong addon",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+    },
+    {
+      "app": "minecraft",
+      "url": "https://modcraft.su/poload/p_lb3_0_0-aquatic-update.mcpack",
+      "url": "https://modcraft.su/poload/p_lr3_0_0-aquatic-update.mcpack",
+      "path": "Download/AquaticUpdate.mcaddon",
+      "image": "https://fmcpe.com/uploads/posts/2020-11/1606270750_prehistoric-2.jpg",
+      "title": "Dinosaurs addon (Aquatic Update)",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
     }
   ],
   "settings": {
