@@ -31,28 +31,26 @@
   "mods": [
     {
       "app": "minecraft",
-      "url": "https://files.catbox.moe/1tg9cb.mcpack",
-      "url": "https://files.catbox.moe/a90lfa.mcpack",
-      "path": "Download/divine_swords.mcaddon",
-      "image": "https://modscraft.net/uploads/posts/2023-10/divine-swords-1.png",
-      "title": "Mod: Divine Swords",
-      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
-    },
-    {
-      "app": "minecraft",
-      "url": "https://files.catbox.moe/7uwkif.mcpack",
-      "url": "https://files.catbox.moe/7hjbcz.mcpack",
-      "path": "Download/SwordofEdge.mcaddon",
-      "image": "https://modscraft.net/uploads/posts/2021-07/1627399491_swords_3.jpg",
-      "title": "Mod: Sword of Withering and Sword of Edge",
-      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
-    },
-    {
-      "app": "minecraft",
       "url": "https://files.catbox.moe/c6r8fz.mcaddon",
       "path": "Download/ModSuperSwordsv3.mcaddon",
       "image": "https://modscraft.net/uploads/posts/2021-04/1619055950_super-swords-minecraft.jpg",
       "title": "Mod: Super Swords",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/1tg9cb.mcpack",
+      "path": "Download/too-much-tnt.mcaddon",
+      "image": "https://modscraft.net/uploads/posts/2021-04/1619629840_too-much-tnt-pe_14.jpeg",
+      "title": "Mod: Too Much TNT",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/09xj2l.mcaddon",
+      "path": "Download/merging_v1_0_3.mcaddon",
+      "image": "https://modscraft.net/uploads/posts/2021-05/1622039763_merging-items-mod-version-102_7.jpg",
+      "title": "Mod: Merging Items",
       "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
     },
     {
@@ -66,7 +64,6 @@
     {
       "app": "minecraft",
       "url": "https://files.catbox.moe/q2tqak.mcpack",
-      "url": "https://files.catbox.moe/qbdat4.mcpack",
       "path": "Download/WeaponsandToolsaddons.mcaddon",
       "image": "https://fmcpe.com/uploads/posts/2023-03/weapons-7.jpg",
       "title": "Weapons and Tools addon",
@@ -75,7 +72,6 @@
     {
       "app": "minecraft",
       "url": "https://files.catbox.moe/vk2n5w.mcpack",
-      "url": "https://files.catbox.moe/ayzew7.mcpack",
       "path": "Download/more-tool-add-on-v14-res.mcaddon",
       "image": "https://fmcpe.com/uploads/posts/2020-08/1596978355_sword-addon-2.jpg",
       "title": "New Swords and Tools addon",
