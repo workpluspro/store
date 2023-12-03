@@ -39,10 +39,10 @@
     },
     {
       "app": "minecraft",
-      "url": "https://modcraft.su/poload/4/McArkRPPreRelease.mcaddon",
-      "path": "Download/McArkRPPreRelease.mcaddon",
-      "image": "https://fmcpe.com/uploads/posts/2022-02/1644774169_ark-2.jpg",
-      "title": "Arkcraft addon",
+      "url": "https://files.catbox.moe/yekiqs.mcaddon",
+      "path": "Download/trex_v4_1609140582.mcaddon",
+      "image": "https://modscraft.net/uploads/posts/2020-12/1609275862_trex-addon_3.png",
+      "title": "Mod: TRex",
       "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
     },
     {
@@ -55,11 +55,10 @@
     },
     {
       "app": "minecraft",
-      "url": "https://modcraft.su/poload/p_lb3_0_0-aquatic-update.mcpack",
-      "url": "https://modcraft.su/poload/p_lr3_0_0-aquatic-update.mcpack",
-      "path": "Download/AquaticUpdate.mcaddon",
-      "image": "https://fmcpe.com/uploads/posts/2020-11/1606270750_prehistoric-2.jpg",
-      "title": "Dinosaurs addon (Aquatic Update)",
+      "url": "https://files.catbox.moe/ia80xx.mcaddon",
+      "path": "Download/ydinodownload.mcaddon",
+      "image": "https://modscraft.net/uploads/posts/2020-05/1589819007_ydino-craft_22.png",
+      "title": "Mod: YDinoCraft",
       "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
     }
   ],
