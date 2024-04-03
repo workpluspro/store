@@ -29,12 +29,12 @@
   ],
   "Mods": [
     {
-      "name": "hello anas",
-      "image": "https://aliendro.id/uploads/demo/melmod/buddy.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Kick_The_Buddy.zip",
+      "name": "Marvel's Spider-Man 2 addon",
+      "image": "https://fmcpe.com/uploads/posts/2024-04/photo_2024-04-03_19-05-14.webp",
+      "link_mods": "https://modcraft.su/poload/5/Spider-Man%20Add-on%20Update%20b.mcaddon",
       "link_saves": "null",
       "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
+      "description": "This addon brings various versions of Spider-Man, along with his enemies and allies, into Minecraft PE. It adds features that allow players to experience gameplay as Spider-Man. You can spawn different Spider-Men, including those from movies and comics, as well as their foes. Additionally, the addon includes unique characters, such as Spider-Gwen and Spider-Punk, each with their own abilities and stories."
     },
     {
       "name": "Plant Wubbox",
