@@ -90,7 +90,7 @@
       "link_mods": "https://aliendro.id/uploads/demo/melmod/evil_mods.zip",
       "link_saves": "https://aliendro.id/uploads/demo/melmod/evil_save.zip",
       "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
+      "description": ".mcadon hello abas"
     }
   ]
 }
