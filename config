@@ -31,11 +31,59 @@
   "mods": [
     {
       "app": "minecraft",
+      "url": "https://mcpeland.io/index.php?do=download&id=2032&lang=en",
+      "path": "Download/ProjectWalker-1.8.2.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2024-06/20240615220520_1-520x245.png",
+      "title": "Addon: Project Walker 1.8.2",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. "
+    },
+    {
+      "app": "minecraft",
       "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-      "path": "Download/FoodPlus.mcaddon",
-      "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
-      "title": "Food's Plus 1",
-      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+      "path": "Download/FurnitureKraft.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2024-06/img20240520132451_1-520x245.png",
+      "title": "Addon: Furniture Kraft",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game."
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/yw1vyf.mcaddon",
+      "path": "Download/RadiumsArmament.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2024-06/methuu1r-pe.jpg",
+      "title": "Addon: Radium's Armament",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game."
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/yw1vyf.mcaddon",
+      "path": "Download/MoreOresTools.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2024-06/0ybqjrbg3ri.jpg",
+      "title": "Addon: More Ores Tools",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game."
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/yw1vyf.mcaddon",
+      "path": "Download/AddonMercedesGWagon.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2024-06/sasssa_1-520x245.png",
+      "title": "Addon: Mercedes G Wagon",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game."
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/yw1vyf.mcaddon",
+      "path": "Download/AddonPassiveMonsters.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2024-06/sasssa_1-520x245.png",
+      "title": "Addon: Passive Monsters",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game."
+    },
+    {
+      "app": "minecraft",
+      "url": "https://mcpeland.io/index.php?do=download&id=2016&lang=en",
+      "path": "Download/NicosItemExpansion.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2024-05/nicos-item-expansion-v19_1-520x245.png",
+      "title": "Addon: Nico's Item Expansion",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game."
     },
     {
       "app": "minecraft",
@@ -43,87 +91,191 @@
       "path": "Download/FoodPlus.mcaddon",
       "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
       "title": "Food's Plus 3",
-      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game."
     },
     {
       "app": "minecraft",
       "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-      "path": "Download/FoodPlus.mcaddon",
-      "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
-      "title": "Food's Plus 3",
-      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+      "path": "Download/RaiyonsJavaCombat.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2023-11/20230619173941-1_1-520x245.png",
+      "title": "Addon: Raiyon's Java Combat",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game."
     },
     {
       "app": "minecraft",
       "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-      "path": "Download/FoodPlus.mcaddon",
-      "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
-      "title": "Food's Plus 3",
-      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+      "path": "Download/AbandonedRuinStructures.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2022-11/abandoned-ruin-structures_1-520x245.png",
+      "title": "Addon: Abandoned & Ruin Structures",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game."
     },
     {
       "app": "minecraft",
       "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-      "path": "Download/FoodPlus.mcaddon",
-      "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
-      "title": "Food's Plus 3",
-      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+      "path": "Download/NewToolsandExtraV3.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2024-05/picsart_10-20-12.jpg",
+      "title": "Addon: New Tools and Extra V3",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game."
     },
     {
       "app": "minecraft",
       "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-      "path": "Download/FoodPlus.mcaddon",
-      "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
-      "title": "Food's Plus 3",
-      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+      "path": "Download/GodzillaMinusOne.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2024-03/20240321191224_1-520x245.png",
+      "title": "Addon: Godzilla: Minus One",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game."
     },
     {
       "app": "minecraft",
       "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-      "path": "Download/FoodPlus.mcaddon",
-      "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
-      "title": "Food's Plus 3",
-      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+      "path": "Download/PoppyPlaytime3.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2024-05/ypqtm1-i8g0hd.jpg",
+      "title": "Addon: Poppy Playtime 3",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game."
     },
     {
       "app": "minecraft",
       "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-      "path": "Download/FoodPlus.mcaddon",
-      "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
-      "title": "Food's Plus 3",
-      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+      "path": "Download/RollandStamina.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2024-05/bhj_1-520x245.png",
+      "title": "Addon: Roll and Stamina",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game."
     },
     {
       "app": "minecraft",
       "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-      "path": "Download/FoodPlus.mcaddon",
-      "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
-      "title": "Food's Plus 3",
-      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+      "path": "Download/FamilyLife4.3.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2024-02/novo-projeto-27-125dc42_1-520x245.png",
+      "title": "Addon: Family Life 4.3",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game."
     },
     {
       "app": "minecraft",
       "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-      "path": "Download/FoodPlus.mcaddon",
-      "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
-      "title": "Food's Plus 3",
-      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+      "path": "Download/GojoUnlimited.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2024-05/packicon_1-520x245.png",
+      "title": "Addon: Gojo Unlimited",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game."
     },
     {
       "app": "minecraft",
       "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-      "path": "Download/FoodPlus.mcaddon",
-      "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
-      "title": "Food's Plus 3",
-      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+      "path": "Download/AGMorphMobs.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2024-05/fererrere_1-520x245.png",
+      "title": "Addon: AG's Morph Mobs",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game."
     },
     {
       "app": "minecraft",
       "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-      "path": "Download/FoodPlus.mcaddon",
-      "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
-      "title": "Food's Plus 3",
-      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+      "path": "Download/MrCrayFishFurniture.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2024-05/mcpedl.png",
+      "title": "Addon: Mr Cray Fish Furniture",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game."
+    },
+    {
+      "app": "minecraft",
+      "url": "https://mcpeland.io/index.php?do=download&id=1987&lang=en",
+      "path": "Download/RaiyonsVanillaTools.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2024-03/20240321191224_1-520x245.png",
+      "title": "Addon: Raiyon's Vanilla Tools",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game."
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/yw1vyf.mcaddon",
+      "path": "Download/MummyBoss.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2024-04/narutocraftv2541520x245_1-520x245.png",
+      "title": "Addon: Mummy Boss",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game."
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/yw1vyf.mcaddon",
+      "path": "Download/SystemDynamicLights.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2024-04/dynamic.png",
+      "title": "Addon: System Dynamic Lights",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game."
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/yw1vyf.mcaddon",
+      "path": "Download/ExpansiveBiomes.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2024-04/eb-thumb-1.png",
+      "title": "Addon: Expansive Biomes",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game."
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/yw1vyf.mcaddon",
+      "path": "Download/DivineDimension.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2024-04/dr_1-520x245.png",
+      "title": "Addon: Divine Dimension",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game."
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/yw1vyf.mcaddon",
+      "path": "Download/DefinitiveOreMiner.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2022-05/sin-ttulo1-1_1-520x245.png",
+      "title": "Addon: Definitive Ore Miner",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game."
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/yw1vyf.mcaddon",
+      "path": "Download/SKIBIDITOILET.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2024-04/erfef_1-520x245.png",
+      "title": "Addon: SKIBIDI TOILET",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game."
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/yw1vyf.mcaddon",
+      "path": "Download/GhostBlock.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2022-09/mcpedl_1-520x245.png",
+      "title": "Addon: Ghost Block",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game."
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/yw1vyf.mcaddon",
+      "path": "Download/CatDecorationsFurni.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2024-04/hbjhbh_1-520x245.png",
+      "title": "Addon: Cat Decorations Furni",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game."
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/yw1vyf.mcaddon",
+      "path": "Download/MyLittlePony.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2024-03/qfqhfybqu8i.jpg",
+      "title": "Addon: My Little Pony",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game."
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/yw1vyf.mcaddon",
+      "path": "Download/BarbChain.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2024-03/barbandchain_1-520x245.png",
+      "title": "Addon: Barb & Chain",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game."
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/yw1vyf.mcaddon",
+      "path": "Download/StarPixel.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2024-03/sjaigo5hbb0.jpg",
+      "title": "Addon: Star Pixel",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game."
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/yw1vyf.mcaddon",
+      "path": "Download/Hulk.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2024-03/c75633_527e6852e885420ca1e72fc0c2804481mv2.webp",
+      "title": "Addon: Hulk",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game."
     }
   ],
   "settings": {
