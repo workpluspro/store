@@ -31,7 +31,7 @@
   "mods": [
     {
       "app": "minecraft",
-      "url": "https://collectmods.com/Files/Addon3/.mcaddonproject_walker_addon.mcaddon",
+      "url": "https://collectmods.com/Files/Addon3/project_walker_addon.mcaddon",
       "path": "Download/ProjectWalker-1.8.2.mcaddon",
       "image": "https://mcpeland.io/uploads/posts/2024-06/20240615220520_1-520x245.png",
       "title": "Project Walker 1.8.2",
@@ -44,6 +44,62 @@
       "image": "https://mcpeland.io/uploads/posts/2024-06/img20240520132451_1-520x245.png",
       "title": "Furniture Kraft",
       "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game."
+    },
+    {
+      "app": "minecraft",
+      "url": "https://collectmods.com/Files/Addon3/sailboat_addon.mcaddon",
+      "path": "Download/Sailboat Addon.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2021-12/1640511969_sailboat-mcpedl_1-520x245.png",
+      "title": "Sailboat Addon",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. "
+    },
+    {
+      "app": "minecraft",
+      "url": "https://collectmods.com/Files/Addon3/huggy_wuggy_fnf.mcaddon",
+      "path": "Download/FNFHuggyWuggy.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2022-01/huggy_wuggy_fnf.png",
+      "title": "FNF Huggy Wuggy",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. "
+    },
+    {
+      "app": "minecraft",
+      "url": "https://collectmods.com/Files/Addon3/thomas_exe.mcaddon",
+      "path": "Download/Thomas.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2022-01/thomas_exe.png",
+      "title": "Thomas mod",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. "
+    },
+    {
+      "app": "minecraft",
+      "url": "https://collectmods.com/Files/Addon3/mowzie18.mcaddon",
+      "path": "Download/Mowzies Mobs.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2022-01/mowzie_mobs.png",
+      "title": "Mowzies Mobs",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. "
+    },
+    {
+      "app": "minecraft",
+      "url": "https://collectmods.com/Files/Addon3/venom_mod.mcaddon",
+      "path": "Download/VenomMod.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2022-01/venom_mod.png",
+      "title": "Venom Mod",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. "
+    },
+    {
+      "app": "minecraft",
+      "url": "https://collectmods.com/Files/Addon3/foodexpansion.mcaddon",
+      "path": "Download/FoodExpansion.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2022-04/ccexpress2022042620032806456161101932926_1-520x245.png",
+      "title": "Food Expansion",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. "
+    },
+    {
+      "app": "minecraft",
+      "url": "https://collectmods.com/Files/Addon3/structure_1click.mcpack",
+      "path": "Download/StructureInOneClick.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2023-01/picsart230104171036813_1-520x245.png",
+      "title": "Structure In One Click",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. "
     },
     {
       "app": "minecraft",
